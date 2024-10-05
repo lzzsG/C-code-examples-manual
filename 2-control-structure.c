@@ -232,6 +232,7 @@ label:
         printf("\n");
     }
 
+    // 示例19：带标志的跳出多层嵌套循环
     int i, j;
     int found = 0; // 标志变量
     printf("\n带标志的跳出多层嵌套循环:\n");
